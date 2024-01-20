@@ -38,6 +38,7 @@ button {
 
 .content {
   flex: 1;
+  /* 等比例大小的block */
   display: flex;
   align-items: center;
   justify-content: center;
